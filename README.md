@@ -12,6 +12,7 @@
 # Project Idea
 - 일상 속에서 자가용 대신 대중교통이나 도보, 자전거 등을 이용함으로써 탄소배출량을 줄이고 인센티브를 얻는다.
 - 점수 계산 공식은 아래와 같음.
+- Matlab 을 통한 일일 점수 및 포인트 계산식 도출
 ![point](https://user-images.githubusercontent.com/77060863/114398614-f45f6380-9bda-11eb-9f75-583481b53d7f.PNG)
 
 # Project Technique
